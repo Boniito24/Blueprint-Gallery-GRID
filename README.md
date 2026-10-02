@@ -1,7 +1,21 @@
 # Blueprint Gallery GRID
 
+A widget for the RTS game **[Beyond All Reason](https://www.beyondallreason.info/)** (BAR).
+
 While you place a blueprint (**Alt+B**), your blueprints **replace the build grid**: same panel, same look,
 same tabs (**Economy / Combat / Utility / Build**) and the **same hotkeys** as the grid.
+
+## Installation
+
+1. Close the game.
+2. Copy the file `gui_blueprint_gallery.lua` into your Beyond All Reason folder, here:
+
+   ```
+   Beyond-All-Reason/data/LuaUI/Widgets/gui_blueprint_gallery/gui_blueprint_gallery.lua
+   ```
+
+   (create the `gui_blueprint_gallery` folder; putting the file directly in `Widgets/` also works).
+3. Start a game: the widget turns on by itself. If not, press **F11** and enable **Blueprint Gallery GRID**.
 
 ## How to use
 
@@ -29,9 +43,13 @@ Texts follow the game language (English, Français, Deutsch, Español, Italiano,
 
 ## Résumé en français
 
-Pendant la pose d'un blueprint (Alt+B), tes blueprints prennent la place de la grille, avec ses onglets et ses
-touches : la touche de l'onglet, puis la lettre de la case. Shift pour revenir. Glisser une miniature pour la ranger,
-clic droit pour changer sa catégorie. Le widget suit la langue du jeu.
+Widget pour le jeu **Beyond All Reason**. Pendant la pose d'un blueprint (Alt+B), tes blueprints prennent la place de
+la grille, avec ses onglets et ses touches : la touche de l'onglet, puis la lettre de la case. Shift pour revenir.
+Glisser une miniature pour la ranger, clic droit pour changer sa catégorie. Le widget suit la langue du jeu.
+
+Installation : jeu fermé, copier `gui_blueprint_gallery.lua` dans le dossier de Beyond All Reason, ici :
+`Beyond-All-Reason/data/LuaUI/Widgets/gui_blueprint_gallery/gui_blueprint_gallery.lua`, puis lancer une partie
+(sinon F11 et cocher « Blueprint Gallery GRID »).
 
 Author: Boniito. Developed with the help of Claude (Anthropic's AI assistant).
 
