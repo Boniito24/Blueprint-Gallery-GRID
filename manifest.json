@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"display_name": "Blueprint Gallery GRID",
 	"author": "Boniito",
-	"discord_link": "",
+	"discord_link": "https://discord.com/channels/549281623154229250/1555620014281990204",
 	"github_link": "https://github.com/Boniito24/Blueprint-Gallery-GRID/blob/main/gui_blueprint_gallery.lua",
 	"description": "While placing a blueprint, your blueprints replace the build grid: same look, same tabs and hotkeys. Drag to arrange, right-click to change category, Shift to go back. Follows the game language.",
 	"last_updated": "2026-10-02T00:00:00.000Z"
